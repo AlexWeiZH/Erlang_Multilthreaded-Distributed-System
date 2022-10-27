@@ -3,7 +3,7 @@
 Project 3 source code of DOSP(Distributed Operating System Principle)
 Develop by Wei zihan 
 
-.This project implemented part of the chord algorithm descriped in this paper:
+#This project implemented part of the chord algorithm descriped in this paper:
 https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdfLinks to an external site..
 
 # This project is developed using InteliJ IDEA, I used Erlang gen_server package. 
