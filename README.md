@@ -1,3 +1,3 @@
-# Erlang_Multilthreaded-Distruted-System
+# Erlang_Multilthreaded-Distributed-System
 Source codes of DOSP(Distributed Operating System Principle) of UF
 
