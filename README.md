@@ -1,4 +1,4 @@
-#How to run#
+##How to run
 Backend:
 Compile all files in this directory in the Erlang shell:
 c(database).
